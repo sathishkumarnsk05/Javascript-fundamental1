@@ -17,7 +17,24 @@
 // Data type
 /*
     - There are two types available in js: 1)Primitives, and 2) Objects
-    * Primitives: [ 1)Strning, 2)Number, 3)Boolean, 4)Null, 5) Undefined, 6)BigInt, 7)Symbols ]
+    * Primitives: [ 1)Number, 2)String, 3)Boolean, 4)Null, 5)Undefined, 6)Symbols and 7)BigInt]
     * Object: The object data type can contain both built-in objects, and user defined objects
     * Built-in object types can be: objects, arrays, dates, maps, sets, intarrays, floatarrays, promises, and more.
+    `
+        1) Number
+        * Numbers always have Floating point numbers 1)Decimals and integers.
+        Eg: let number = 20 it consider as let number = 20.0
+        2) String
+        * Sequence of characters used for text. always string with in the "" or '' quotes.
+        Eg: let name = "javascript"
+        3) Boolean
+        * Logical type that can be true or false. using for taking dicisions.
+        Eg: let logic = true or false
+        4) Undefined
+        * Value taken by the variable that is not yet defined (empty value)
+        Eg: let a; consol.log(a) => OutPut: Undefined.
+        5) Null
+        * Also means as 'empty value'
+        6) Symbol: Value that is unique and connot be changed
+    `
 */
