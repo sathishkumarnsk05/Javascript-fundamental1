@@ -1,0 +1,23 @@
+// What is value
+/* 
+    - A value is a piece of data, such as eg: "sathish" 
+    - A value is a smallest unit of information
+    - To use the value in your code, save it in a variable.
+*/
+
+// What is variales
+/*
+    - Variable is like a container that holds the value.
+    - The container contains a label.
+    - The label allow us to use that container repeatedly in our code
+    - Variables have the following types [Var, Let, Const]
+    - There are several naming conventions in variable declarations. ["camelCase", "_", "$"]
+    - Some conditions for declaring a variable are as follows: [1. Not start with a number and reserved key word like "New, function"]
+*/
+// Data type
+/*
+    - There are two types available in js: 1)Primitives, and 2) Objects
+    * Primitives: [ 1)Strning, 2)Number, 3)Boolean, 4)Null, 5) Undefined, 6)BigInt, 7)Symbols ]
+    * Object: The object data type can contain both built-in objects, and user defined objects
+    * Built-in object types can be: objects, arrays, dates, maps, sets, intarrays, floatarrays, promises, and more.
+*/
